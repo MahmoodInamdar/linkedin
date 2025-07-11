@@ -1,0 +1,12 @@
+# settings.yaml
+
+linkedin:
+  client_id: "YOUR_LINKEDIN_CLIENT_ID"
+  client_secret: "YOUR_LINKEDIN_CLIENT_SECRET"
+  redirect_uri: "http://localhost:8000/auth/callback"
+
+openai:
+  api_key: "YOUR_OPENAI_API_KEY"
+
+database:
+  url: "sqlite:///../app.db"
