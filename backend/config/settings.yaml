@@ -1,12 +1,12 @@
 # settings.yaml
 
 linkedin:
-  client_id: "YOUR_LINKEDIN_CLIENT_ID"
-  client_secret: "YOUR_LINKEDIN_CLIENT_SECRET"
+  client_id: "78ivspudpn70h8"
+  client_secret: "YWPL_AP1.7xFLvZ6uVMLNuVz2.rQ8fKQ=="
   redirect_uri: "http://localhost:8000/auth/callback"
 
 openai:
-  api_key: "YOUR_OPENAI_API_KEY"
+  api_key: "k-proj-r-h5HlC2eosnT5UcKtWv3hCnm8z4M0Mlf-PqQSfUNNBKNadnP0AAAnZx0aMH4IcBfrFC9_aH_CT3BlbkFJgfVmxVU-HzdH-Ng6pgcZLFGTfg1BH5OOIhIfaSeN69XIiLIdnYjMkBZmSlgZbKkMlRcoYUZEAA"
 
 database:
   url: "sqlite:///../app.db"
